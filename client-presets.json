@@ -1,0 +1,17 @@
+{
+  "amazon_business": {
+    "tone": "très professionnel",
+    "opening": "Bonjour, je vous contacte au nom d'Amazon Business concernant un dossier de facturation.",
+    "closing": "Merci de votre collaboration."
+  },
+  "dell": {
+    "tone": "neutre et efficace",
+    "opening": "Bonjour, appel du service facturation Dell.",
+    "closing": "Nous restons à votre disposition."
+  },
+  "microsoft": {
+    "tone": "premium et relationnel",
+    "opening": "Bonjour, je vous appelle pour Microsoft concernant un suivi administratif.",
+    "closing": "Merci pour votre confiance."
+  }
+}

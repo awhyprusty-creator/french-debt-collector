@@ -1,0 +1,27 @@
+Tu es un testeur QA automatique.
+
+Simule 8 appels clients réalistes pour un agent vocal de recouvrement français.
+
+Pour chaque appel :
+1. Décris brièvement le profil client
+2. Génère un dialogue court (4 à 6 tours)
+3. Donne un score qualité sur 10
+4. Marque le résultat : SUCCÈS ou ÉCHEC
+
+Les critères d’évaluation :
+- Politesse
+- Clarté
+- Respect des règles
+- Gestion du refus
+- Proposition de paiement ou rappel
+- Respect vie privée
+
+À la fin fournis un résumé avec :
+- Nombre total de tests
+- Taux de réussite (%)
+- Score moyen
+- P95 temps de réponse estimé (simulation)
+- 2 points forts
+- 2 problèmes observés
+
+Format final clair en Markdown.
